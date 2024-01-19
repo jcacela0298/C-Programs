@@ -8,7 +8,7 @@ To use and interact with this program, download the files and make sure they are
 .
 .
 .
-During this project, I learned more about basic C syntax, the gcc compiler, how C tends to prefer file structures without spaces, how VS Code needs to be restarted once in a while to resolve bugs, how the following code section: 
+During this project, I learned more about the gcc compiler, how C tends to prefer file structures without spaces, how VS Code needs to be restarted once in a while to resolve bugs, how the following code section: 
 
 ___________________________________________
 printf("\n"); // Add a single new line here
@@ -33,5 +33,4 @@ _________________________
 const float PI = 3.14159;
 _________________________
 
-scanner functionality, if statements, switch statements, 
-
+scanner functionality, if statements, switch statements, and overall basic C syntax.
