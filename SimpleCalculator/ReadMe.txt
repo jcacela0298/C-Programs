@@ -2,7 +2,11 @@ I worked on a simple calculator program that contains various functionality for 
 
 If you would like to view my IT YouTube channel, follow this link: https://www.youtube.com/@ITtutorjack
 
-To use and interact with this program, download the files and make sure they are in the same folder. Then, click on the "Calculator.exe" file and follow the prompts.
+To use and interact with this program, feel free to download the files and make sure they are in the same folder. Then, either click on the "Calculator.exe" file, or go to the command prompt in terminal, and after navigating to the appropriate directory, run the exe file by entering the following command: 
+
+Calculator.exe
+
+Then, follow the simple prompt directions.
 .
 .
 .
