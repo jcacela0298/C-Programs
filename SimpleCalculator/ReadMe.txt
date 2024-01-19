@@ -1,4 +1,4 @@
-I worked on a simple calculator that contains various functionality for client interaction.
+I worked on a simple calculator program that contains various functionality for client interaction.
 
 If you would like to view my IT YouTube channel, follow this link: https://www.youtube.com/@ITtutorjack
 
