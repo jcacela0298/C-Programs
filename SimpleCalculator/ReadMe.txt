@@ -10,11 +10,11 @@ To use and interact with this program, download the files and make sure they are
 .
 During this project, I learned more about basic C syntax, the gcc compiler, how C tends to prefer file structures without spaces, how VS Code needs to be restarted once in a while to resolve bugs, how the following code section: 
 
-_____________________________________
-printf("\n"); // Add a single \n here
+___________________________________________
+printf("\n"); // Add a single new line here
    system("pause");
    return 0;
-_____________________________________
+___________________________________________
 
 is a great way to finish my C programs so the program doesn't exit too quickly, how C is not object oriented, pre-processor commands for basic functionality as well as #include <stdlib.h> for system("pause") functionality, how to rename the executable by the following command: gcc Calculator.c -o Calculator, format specifiers with an example: 
 
