@@ -4,7 +4,7 @@ If you would like to view my IT YouTube channel, follow this link: https://www.y
 
 To use and interact with this program, feel free to download the files and make sure they are in the same folder. Then, either double-click on the "PayrollTracker.exe" file, or you can go to the command prompt in terminal, navigate to the appropriate directory, and run the .exe file by entering the following command: 
 
-Payrolltracker.exe
+PayrollTracker.exe
 
 The program will then start, and after following the simple prompt directions, the PayrollTracker program will place the output into a new file by the name of "home2.txt". If a file with the same name already exists, it will be overwritten.
 .
