@@ -1,1 +1,1 @@
-I am most proud of the WageFunctions project. Here, in addition to creating a wage calculator using functions, I employ all of my code organization & readability techniques.
+I am most proud of my most recent WageFunctions & WageStructures projects. Here, in addition to creating a wage calculator using structures and functions, I employ all of my code organization & readability techniques.
