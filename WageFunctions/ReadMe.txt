@@ -12,4 +12,4 @@ The program will then start, and after following the simple prompt directions, t
 .
 .
 .
-During this project, I learned more about code neatness, function prototypes, C function calling, return types, code organization, function task delegation to functions other than main, letting the main function "make the decisions" while the other functions return the data to main, labeling end braces with comments to designate the end of functions for organization & code readability, calling by reference, and overall C syntax
+During this project, I learned more about code neatness, function prototypes, C function calling, return types, code organization, function task delegation to functions other than main, letting the main function "make the decisions" while the other functions return the data to main, labeling end braces with comments to designate the end of functions for organization & code readability, calling by reference, and overall C syntax.
