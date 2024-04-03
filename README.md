@@ -1,1 +1,1 @@
-I am most proud of my most recent WageFunctions & WageStructures C projects. In addition to creating the wage calculator using structures and functions, I employ all of my code organization & readability techniques that I have learned along the way.
+I am most proud of my most recent WageLinkedLists C project. In addition to creating a wage calculator using complex topics such as linked lists, dynamic memory allocation, structures, and functions, I employ all of my code organization & readability techniques that I have learned along the way.
