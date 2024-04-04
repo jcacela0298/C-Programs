@@ -1,0 +1,12 @@
+*** Disc Golf Disc Tracker ***
+
+Name                Brand               Category             Speed Glide  Turn  Fade Weight(g)
+-----------------------------------------------------------------------------------------------
+Destroyer           Innova              DistanceDriver       12.00  5.00 -1.00  3.00  175.00
+DD3                 Discmania           DistanceDriver       12.00  5.00 -1.00  3.00  175.00
+-----------------------------------------------------------------------------------------------
+
+Total Weight Of All Discs: 350.00 grams
+
+
+Total Number Of Discs Processed: 2
