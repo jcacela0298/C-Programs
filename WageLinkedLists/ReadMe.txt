@@ -1,4 +1,4 @@
-I worked on a payroll tracker program that utilizes linked lists, dynamic memory allocation, structures, pointers, and contains various functionality for client interaction.
+I worked on a payroll tracker program that utilizes linked lists, dynamic memory allocation, memory freeing, structures, pointers, and contains various functionality for client interaction.
 
 If you would like to view my IT YouTube channel, follow this link: https://www.youtube.com/@ITtutorjack
 
