@@ -6,7 +6,7 @@
 //
 // Date: <4/29/2024>
 //
-// Description: Write a function that takes the values of a two-card 
+// Description: This program takes the values of a two-card 
 // blackjack HAND as input (1 card at a time), and returns the point total of the hand.
 // The value of the cards '2' through '9' is equal to their face value,
 // the cards 'T', 'K', 'Q', 'J' are worth 10 points and the ace ('A') 
