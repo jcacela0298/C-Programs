@@ -1,6 +1,6 @@
-I worked on a minimum value returner program that prompts the user for four integers, and then returns the lowest out of the four in a highly efficient C program.
+I created a minimum value returner program that prompts the user for four integers, and then returns the lowest out of the four.
 
-If you would like to view my IT YouTube channel, follow this link: https://www.youtube.com/@ITtutorjack
+If you would like to view my IT YouTube channel, follow this link: https://www.youtube.com/@TheSoftwareTutor1
 
 This program will place the output into terminal.
 .
