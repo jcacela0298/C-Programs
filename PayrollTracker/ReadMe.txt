@@ -1,6 +1,6 @@
-I worked on a payroll tracker program that contains various functionality for client interaction.
+I created a payroll tracker program that contains various functionality for client interaction.
 
-If you would like to view my IT YouTube channel, follow this link: https://www.youtube.com/@ITtutorjack
+If you would like to view my IT YouTube channel, follow this link: https://www.youtube.com/@TheSoftwareTutor1/videos
 
 To use and interact with this program, feel free to download the files and make sure they are in the same folder. Then, either double-click on the "PayrollTracker.exe" file, or you can go to the command prompt in terminal, navigate to the appropriate directory, and run the .exe file by entering the following command: 
 
@@ -12,4 +12,4 @@ The program will then start, and after following the simple prompt directions, t
 .
 .
 .
-During this project, I learned more about the preprocessor directive known as #define _CRT_SECURE_NO_WARNINGS, how one cannot perform file output with Ideone (thankfully, I use VS Code and am able to perform file output), loops, how our file pointer named outputfileptr is created which points to a new file called home2.txt, the difference between %d and %i format specifiers for scanning integers, and overall C syntax.
+During this project, I learned more about the preprocessor directive known as #define _CRT_SECURE_NO_WARNINGS, how one cannot perform file output with Ideone (thankfully, I already use VS Code and am able to perform file output), loops, how our file pointer named outputfileptr is created which points to a new file called home2.txt, the difference between %d and %i format specifiers for scanning integers, and overall C syntax.
