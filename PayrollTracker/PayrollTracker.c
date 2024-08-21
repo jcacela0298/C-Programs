@@ -32,7 +32,8 @@ int main ( )
     
     // open a file called home2.txt:
     // In the example below, a file pointer called outputfileptr 
-    // is created that will point to a new file called home1.txt.
+    // is created that will point to a new file called home2.txt.
+    // And if it is NULL... 
     if ((outputfileptr = fopen("home2.txt", "w")) == (FILE *) NULL)
     {
         // stderr will print to the screen
@@ -45,7 +46,6 @@ int main ( )
 
     printf ("*** Pay Calculator ***\n");
 
-   
     // Add a prompt to capture how many employees to process
     printf ("\nEnter the number of employees to process: ");
     scanf ("%i", &empNum);
