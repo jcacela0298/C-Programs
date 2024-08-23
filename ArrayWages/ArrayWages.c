@@ -77,7 +77,7 @@ int i;                                                                  // loop 
     // Now that we have all the information in our arrays, we can access each employee and print to screen or file
         for (i = 0; i < SIZE; i++)
         {
-            // TODO: Print employee information from your arrays
+            // Print employee information from the arrays
             fprintf (outputfileptr, "\t%06i %5.2f %5.1f %5.1f %7.2f\n",
                 clockNumber[i], wageRate[i], hours[i], overtimeHrs[i], grossPay[i]);
         } // end of for loop
