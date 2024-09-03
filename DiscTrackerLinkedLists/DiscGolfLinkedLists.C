@@ -48,7 +48,7 @@ struct totals // This will hold the information about the total weight of all th
 
 
 //Define prototypes
-struct discs * getDiscData (void);
+struct discs * getDiscData (void); # "struct discs *" indicates that this function returns a pointer to a structure of type discs.
 int isDiscSize (struct discs * head_ptr);
 void calcDiscWeights (struct discs * head_ptr, struct totals *comb_weight_ptr);
 void printHeader (void);
