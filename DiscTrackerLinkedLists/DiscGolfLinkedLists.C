@@ -392,6 +392,8 @@ void printDiscTotals (struct totals * comb_weight_ptr, int theSize)
 // Function: freeMemory 
 // 
 // Purpose: frees the memory allocated for the linked list nodes.
+// The memory for each node has been released, so the linked 
+// list no longer exists in memory.
 // 
 // Parameters: 
 //
